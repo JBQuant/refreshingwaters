@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donate
-featured-img: "https://live.staticflickr.com/65535/48523783531_d4fd31d1f7_z.jpg" 
+featured-img: nags_head_pier_5.jpg
 permalink: /donate/
 ---
 
