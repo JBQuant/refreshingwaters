@@ -49,6 +49,8 @@ background-color:gray
 
 <img src="https://live.staticflickr.com/65535/48523951127_2c01404511_m.jpg" alt="Pier Love Never Fails"  class="center">
 
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/183343741@N07/48523951162/in/dateposted-public/" title="IMG_0028"><img src="https://live.staticflickr.com/65535/48523951162_6f078f2241_z.jpg" width="640" height="640" alt="IMG_0028"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <div class="paypal-button" >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" >
 <input type="hidden" name="cmd" value="_s-xclick" />
