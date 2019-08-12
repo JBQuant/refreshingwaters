@@ -46,7 +46,7 @@ background-color:gray
 
 <p>
 
-<img src="\assets\img\IMG_0030.JPG" alt="Pier Love Never Fails"  class="center">
+<img src="https://live.staticflickr.com/65535/48523951127_2c01404511_m.jpg" alt="Pier Love Never Fails"  class="center">
 
 <div class="paypal-button" >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" >
