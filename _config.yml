@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   Serving Christ through Rejuvination
 
-hero_img: haiti_boat.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: https://live.staticflickr.com/65535/48523783531_d4fd31d1f7_b.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: jjbourne712@gmail.com # email for form submission
 
