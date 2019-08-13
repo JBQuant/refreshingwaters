@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donate
-featured-img: nags_head_pier_5.jpg
+featured-img: "nags_head_pier_5.jpg"
 permalink: /donate/
 ---
 
