@@ -134,7 +134,7 @@ background-color: black;
 <img src="https://live.staticflickr.com/65535/48523950947_b8890faffb_b.jpg" alt="Snow">
 
 <a href = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MACURCQMRVLAS&source=url">
-<input type = "submit" value = "Donate Now" id = "button1" />
+<button class="btn">Button</button>
 </a>
 
 </div>
