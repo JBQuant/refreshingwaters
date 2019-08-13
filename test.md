@@ -99,6 +99,8 @@ background-color: black;
 <html>
 </div>
 
+</body>
+
 <div class="paypal-button" >
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" >
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -107,8 +109,6 @@ background-color: black;
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 </div>
-
-</body>
 
 </html>
 
