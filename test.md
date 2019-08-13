@@ -51,7 +51,7 @@ height: auto;
 
 position: absolute;
 
-top: 50%;
+top: 30%;
 
 left: 50%;
 
@@ -89,18 +89,13 @@ background-color: black;
 
 <div class="container">
 
-<img src="https://live.staticflickr.com/65535/48523950947_b8890faffb_b.jpg" alt="Snow">
+<img src="https://live.staticflickr.com/65535/48523951162_6f078f2241_z.jpg" alt="Snow">
 
 <a href = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MACURCQMRVLAS&source=url">
 <button class="btn">Donate Now</button>
 </a>
 
 
-<html>
-</div>
 
-</body>
-
-</html>
 
 
