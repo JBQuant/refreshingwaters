@@ -10,12 +10,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social:
   name: Jeremy Bourne
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    # Example: - https://twitter.com/BenBalter
+
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -28,7 +24,7 @@ tagline: >
 
 hero_img: https://live.staticflickr.com/65535/48524038596_f00c48a733_b.jpg # Main background image
 
-email: jjbourne712@gmail.com # email for form submission
+email: mkdeleon@refreshingwatersva.org # email for form submission
 
 twitter_username: fake_twitter # replace with your_twitter_username or comment to remove link from footer
 github_username:   # replace with your_github_username or comment to remove link from footer
