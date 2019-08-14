@@ -7,3 +7,5 @@
 layout: default
 title: Welcome
 ---
+
+Refreshing Waters is a non-profit organization dedicated to offering servants and their families in the Chrisitan ministry a place to rejuvinate. 

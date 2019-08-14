@@ -5,7 +5,7 @@ featured-img: "nags_head_pier_5.jpg"
 permalink: /donate/
 ---
 
-## Please consider making a donation to Refreshing Waters:
+Please consider making a donation to Refreshing Waters:
 
 
 <html>
