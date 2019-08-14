@@ -39,7 +39,7 @@ width: 50%;
 
 .container img {
 
-width: 150%;
+width: 200%;
 
 height: auto;
 
